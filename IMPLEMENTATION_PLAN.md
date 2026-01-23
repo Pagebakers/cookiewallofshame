@@ -24,8 +24,11 @@ Create a README.md file with "Hello world" content.
 ### Implementation
 - [x] Create `README.md` with "Hello world" content
 - [x] Commit all changes
+- [x] Add personalized greeting for Roman to README.md
+- [x] Commit and push greeting update
 
 ## Notes
 
 - Simple task to add "Hello world" to the main README
+- Added personalized greeting for Roman as a demonstration
 - Implementation complete
